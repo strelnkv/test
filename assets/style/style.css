@@ -1,0 +1,87 @@
+header {
+  background-image: url(/assets/image/background.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 800px;
+  padding: 12px 20% 0 13%;
+  font-family: "Montserrat", sans-serif;
+  color: aliceblue;
+}
+body {
+  margin: 0;
+}
+#logo {
+  height: 89px;
+}
+.menu {
+  margin: 0;
+}
+#logo,
+.menu {
+  display: inline-block;
+
+  vertical-align: top;
+}
+.menu li {
+  display: inline-block;
+  list-style: none;
+  vertical-align: baseline;
+  padding-left: 20px;
+}
+.address {
+  font-size: 13px;
+  font-weight: 600;
+}
+#phone_number {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 700;
+  padding-left: 10px;
+}
+#phone_number:hover {
+  color: #ff7600;
+}
+#phone_number:visited {
+  color: #ff7600;
+}
+.button7 {
+  font-weight: 700;
+  font-size: 14px;
+  color: white;
+  padding: 0.8em 1em calc(0.8em + 3px);
+  border-radius: 5px;
+  background: #ff7600;
+}
+.button7:hover {
+  background: #bb5e11;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 800;
+}
+.sauna_viza {
+  color: #ff7600;
+}
+
+.pros li {
+  font-size: 15px;
+  margin-bottom: 2em;
+}
+.pros {
+  margin-top: 63px;
+  padding-left: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+.reserve {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  padding: 0.8em 1em calc(0.8em + 3px);
+  border-radius: 5px;
+  background: #ff7600;
+}
+.reserve:hover {
+  background: #bb5e11;
+}
