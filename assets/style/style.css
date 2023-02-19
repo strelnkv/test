@@ -52,6 +52,7 @@ body {
   padding: 0.8em 1em calc(0.8em + 3px);
   border-radius: 5px;
   background: #ff7600;
+  border: none;
 }
 .button7:hover {
   background: #bb5e11;
@@ -81,6 +82,7 @@ h1 {
   padding: 0.8em 1em calc(0.8em + 3px);
   border-radius: 5px;
   background: #ff7600;
+  border: none;
 }
 .reserve:hover {
   background: #bb5e11;
